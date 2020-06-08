@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66b3a4b4-b849-44b0-9a20-2cbcf53a4282" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="stateDesignPattern" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d23rlmrDfgcEMKS8AEeZDwgyr5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="TestNG.FanWallControllerTest.shouldChangeFanSpeedLevel">
+    <configuration name="trackOrderStatus.shouldPrintOrderStatus" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;example.trackOrderStatus.shouldPrintOrderStatus&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FanWallControllerTest.shouldChangeFanSpeedLevel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stateDesignPattern.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example2" />
+      <option name="MAIN_CLASS_NAME" value="example2.FanWallControllerTest" />
+      <option name="METHOD_NAME" value="shouldChangeFanSpeedLevel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trackOrderStatus.shouldCheckOrderStatus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stateDesignPattern.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example1.trackOrderStatus" />
+      <option name="METHOD_NAME" value="shouldCheckOrderStatus" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trackOrderStatus.shouldPrintOrderStatus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stateDesignPattern.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example1.trackOrderStatus" />
+      <option name="METHOD_NAME" value="shouldPrintOrderStatus" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trackOrderStatus.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="stateDesignPattern.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example1.trackOrderStatus" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FanWallControllerTest.shouldChangeFanSpeedLevel" />
+        <item itemvalue="TestNG.trackOrderStatus.shouldCheckOrderStatus" />
+        <item itemvalue="TestNG.trackOrderStatus.test1" />
+        <item itemvalue="TestNG.trackOrderStatus.shouldPrintOrderStatus" />
+        <item itemvalue="Gradle.trackOrderStatus.shouldPrintOrderStatus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66b3a4b4-b849-44b0-9a20-2cbcf53a4282" name="Default Changelist" comment="" />
+      <created>1591609561659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591609561659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Project_Structure" timestamp="1591622663604">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1591622663604" />
+    <state x="453" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1591637717004">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1591637717004" />
+    <state x="401" y="22" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591637823205">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="401" y="22" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1591637823205" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591619664298">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1591619664298" />
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom" timestamp="1591638654170">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591638654170" />
+    <state width="1238" height="189" key="GridCell.Tab.0.center" timestamp="1591638654168">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591638654168" />
+    <state width="1238" height="189" key="GridCell.Tab.0.left" timestamp="1591638654167">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591638654167" />
+    <state width="1238" height="189" key="GridCell.Tab.0.right" timestamp="1591638654169">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591638654169" />
+    <state width="1238" height="244" key="GridCell.Tab.1.bottom" timestamp="1591615471508">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591615471508" />
+    <state width="1238" height="244" key="GridCell.Tab.1.center" timestamp="1591615471503">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1591615471503" />
+    <state width="1238" height="244" key="GridCell.Tab.1.left" timestamp="1591615471502">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1591615471502" />
+    <state width="1238" height="244" key="GridCell.Tab.1.right" timestamp="1591615471507">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1591615471507" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1591621420420">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1591621420420" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1591615197291">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1591615197291" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/build.gradle</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
